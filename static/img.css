@@ -1,0 +1,20 @@
+.father1 {
+    width: 300px;
+    height: 400px;
+    border: 1px solid black;
+    margin: 20px auto;
+    position: relative;
+    display: block;
+    overflow: hidden;
+
+
+  }
+
+  .father1>img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    display: block;
+    transform: translate(-50%, -50%);
+    height: 100%;
+  }
