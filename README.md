@@ -1,7 +1,7 @@
 # Fish_Img开源图床<br>
 ## 简介
 fish_img是一款好用的开源图床，适合个人使用，使用时只需遵守较为宽松的MIT开源协议即可<br>
-演示地址：[http://img.xyfish.cn](http://img.xyfish.cn)<br>
+演示地址：[https://img.xyfish.cn](http://img.xyfish.cn)<br>
 
 ## 功能
 - [x] 多图上传
